@@ -10,6 +10,7 @@ CHECK_ROOTt(){
     then
         echo "run script with root privileges"
         exit 1
+    fi
 }
 
 VALIDATEe(){
